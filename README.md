@@ -1,9 +1,6 @@
 # SAFL: A Self-Attention Scene Text Recognizer with Focal Loss
 
-This repository implements the SAFL in pytorch. 
-
-
-![SAFL Overview](overview.png)
+This repository contains source code of research paper "SAFL: A Self-Attention Scene Text Recognizer with Focal Loss", which is accepted as full-paper in Internation Conference on Machine Learning and Applications. Tested on seven scene text recognition benchmarks including: IIIT5K, SVT, ICDAR03, ICDAR13, ICDAR15, SVT-P and CUTE.
 
 ## Installation
 

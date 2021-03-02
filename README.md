@@ -1,6 +1,6 @@
 # SAFL: A Self-Attention Scene Text Recognizer with Focal Loss
 
-This repository contains source code of research paper "SAFL: A Self-Attention Scene Text Recognizer with Focal Loss", which is accepted as full-paper in Internation Conference on Machine Learning and Applications. Tested on seven scene text recognition benchmarks including: IIIT5K, SVT, ICDAR03, ICDAR13, ICDAR15, SVT-P and CUTE.
+This repository contains source code of research paper "SAFL: A Self-Attention Scene Text Recognizer with Focal Loss", which is accepted as full-paper in 19th Internation Conference on Machine Learning and Applications. Tested on seven scene text recognition benchmarks including: IIIT5K, SVT, ICDAR03, ICDAR13, ICDAR15, SVT-P and CUTE.
 
 ## Installation
 

@@ -2,6 +2,7 @@
 
 This repository contains source code of research paper "SAFL: A Self-Attention Scene Text Recognizer with Focal Loss", which is accepted as full-paper in 19th Internation Conference on Machine Learning and Applications. Tested on seven scene text recognition benchmarks including: IIIT5K, SVT, ICDAR03, ICDAR13, ICDAR15, SVT-P and CUTE.
 
+```
 @inproceedings{safl,
  author = {Bao-Hieu Tran, Thanh Le-Cong, Huu-Manh Nguyen, Duc-Anh Le, Phi-Le Nguyen, Thanh-Hung Nguyen}, 
  title = {AutoPruner: Transformer-based Call Graph Pruning},
@@ -10,7 +11,7 @@ This repository contains source code of research paper "SAFL: A Self-Attention S
  year = {2020},
  numpages = {7},
 }
-
+```
 ## Installation
 
 ```
